@@ -51,7 +51,7 @@ nav > h5{
 }
 
 .right{
-    background: url('../Assets/map_image.png');
+    background: url('../Assets/map_image.png') no-repeat;
     width: 100%;
     
 }
